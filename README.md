@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+![image](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/4353942d-5c36-4674-b182-b0d042baa3f7)# Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +58,36 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2024-02-28 112459](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a)
 
 ## PROGRAM
+```
+const int ledPin=13;
+const int buttonPin=2;
 
+int buttonState=0;
+
+void setup() {
+  pinMode(ledPin,OUTPUT);
+  pinMode(buttonPin,INPUT);
+}
+
+void loop() {
+  buttonState=digitalRead(buttonPin);
+  if(buttonState==HIGH)
+  {
+    digitalWrite(ledPin,HIGH);
+  }
+  else
+  {
+    digitalWrite(ledPin,LOW);
+  }
+}
+```
 ## OUTPUT
-
+### LED OFF
+![Screenshot 2024-02-28 112239](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/e7b5cb95-4910-47c9-a83e-b2acc3e7cca4)
+### LED ON
+![Screenshot 2024-02-28 112249](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/addba6a0-869a-40b8-a244-2eeb61525689)
 ## RESULT
+Thus the arduino program is designed and implemented in a system for LED control using an Arduino microcontroller and a push button.
