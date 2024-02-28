@@ -56,7 +56,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a" width="700" height="600">
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a" width="400" height="300">
 
 ## PROGRAM
 ```
@@ -84,10 +84,10 @@ void loop() {
 ```
 ## OUTPUT
 ### LED OFF
-<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/6f47b8e6-9d94-49f2-b77c-82b1d12bc7b7" width="700" height="600">
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/6f47b8e6-9d94-49f2-b77c-82b1d12bc7b7" width="400" height="300">
 
 ### LED ON
-<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/b6bfa96e-7fd7-4329-bd74-319841a3437d" width="700" height="600">
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/b6bfa96e-7fd7-4329-bd74-319841a3437d" width="400" height="300">
 
 ## RESULT
 Thus the arduino program is designed and implemented in a system for LED control using an Arduino microcontroller and a push button.
