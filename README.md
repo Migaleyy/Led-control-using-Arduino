@@ -56,8 +56,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-02-28 112459](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a)
-<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a" width="400" height="400">
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/f560b80f-3357-4463-8437-74d2bfc4071a" width="600" height="600">
 ## PROGRAM
 ```
 const int ledPin=13;
