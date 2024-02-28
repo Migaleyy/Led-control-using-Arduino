@@ -84,8 +84,10 @@ void loop() {
 ```
 ## OUTPUT
 ### LED OFF
-![Screenshot 2024-02-28 112239](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/e7b5cb95-4910-47c9-a83e-b2acc3e7cca4)
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/6f47b8e6-9d94-49f2-b77c-82b1d12bc7b7" width="700" height="600">
+
 ### LED ON
-![Screenshot 2024-02-28 112249](https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/addba6a0-869a-40b8-a244-2eeb61525689)
+<img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/b6bfa96e-7fd7-4329-bd74-319841a3437d" width="700" height="600">
+
 ## RESULT
 Thus the arduino program is designed and implemented in a system for LED control using an Arduino microcontroller and a push button.
