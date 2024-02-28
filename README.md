@@ -82,6 +82,11 @@ void loop() {
   }
 }
 ```
+
+
+
+
+
 ## OUTPUT
 ### LED OFF
 <img src="https://github.com/Migaleyy/Led-control-using-Arduino/assets/118262199/6f47b8e6-9d94-49f2-b77c-82b1d12bc7b7" width="400" height="300">
