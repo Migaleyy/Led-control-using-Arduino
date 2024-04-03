@@ -1,5 +1,5 @@
-## NAME: Migal G Arunadann
-## REG: 212222110025
+#### NAME: Migal G Arunadann
+#### REG: 212222110025
 # EXPERIMENT-1 Led control using Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
